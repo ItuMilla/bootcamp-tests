@@ -2,4 +2,4 @@ function greet(the_name) {
     return "Hello, " + the_name;
 }
 
-greet("Itumeleng");
+//greet("Itumeleng");
